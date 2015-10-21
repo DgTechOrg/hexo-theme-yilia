@@ -6,15 +6,15 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/struCoder"
+  weibo: "http://weibo.com/3560727401/profile"
+  rss: "/atom.xml"
+  zhihu: "http://www.zhihu.com/people/strucoder"
   #douban: "#"
-  #mail: "#"
+  mail: "zdwloveschina@gmail.com"
   #facebook: "#"
   #google: "#"
-  #twitter: "#"
+  twitter: "https://twitter.com/strucoder"
   #linkedin: "#"
 
 rss: /atom.xml
@@ -28,19 +28,18 @@ mathjax: true
 animate: true
 
 # 是否在新窗口打开链接
-open_in_new: false
+open_in_new: true
 
 # Miscellaneous
-google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: 
+avatar: "http://7xjbiz.com1.z0.glb.clouddn.com/strucoder?imageView2/1/w/460"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
-duoshuo: true
+duoshuo: strucoder
 #是否开启云标签
 tagcloud: true
 
@@ -49,15 +48,15 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+  # 奥巴马的博客: http://localhost:4000/
+  # 卡卡的美丽传说: http://localhost:4000/
+  # 本泽马的博客: http://localhost:4000/
+  # 吉格斯的博客: http://localhost:4000/
+  # 习大大大不同: http://localhost:4000/
+  # 托蒂的博客: http://localhost:4000/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: "两.个.轮.子.上.写.代.码"
